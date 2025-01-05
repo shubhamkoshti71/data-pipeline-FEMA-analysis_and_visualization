@@ -4,9 +4,10 @@
 The FEMA Disaster Data Pipeline project aims to automate data ingestion, preprocessing, and visualization for disaster-related datasets. This pipeline efficiently handles data extracted from three FEMA APIs: Hazard Mitigation, Public Assistance, and Disaster Declaration. 
 The project leverages Apache Airflow for workflow orchestration, Azure Blob Storage for secure data storage, Databricks for data cleaning and transformation, and Tableau for creating insightful dashboards. 
 The end-to-end process ensures scalable, reliable, and real-time data analytics for disaster management. <br>
-**Data Source**: [OpenFEMA Datasets](https://www.fema.gov/about/openfema/data-sets) 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [_Learn more about FEMA_](https://www.fema.gov/about/how-fema-works) 
+**Data Source**: [OpenFEMA Datasets](https://www.fema.gov/about/openfema/data-sets) <br>
+[_Learn more about FEMA_](https://www.fema.gov/about/how-fema-works) 
+
+![image](assets/FEMA_project_flowchart.png)
 
 ---
 
